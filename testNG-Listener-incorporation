@@ -2,5 +2,5 @@ Add this snippet within the Suite tag
 not within the test tag
 
 <listeners>
-    <listener class-name="listeners.TestListener"/>
+    <listener class-name="packagename.Listenername"/>
 </listeners>
